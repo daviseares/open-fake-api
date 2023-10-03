@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Teste",
+      "email": "email@test.tst",
+      "token": "c32cb464-f58a-4e34-9a9e-e1e1da408a6e"
+    }
+  ]
+}
