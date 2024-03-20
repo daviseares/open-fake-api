@@ -4,7 +4,8 @@
       "id": 1,
       "name": "Roberta",
       "card_id": "081924532",
-      "company": "EMPRESA BADARÓ"
+      "picture": "https://r2.easyimg.io/mdxoib23h/roberta.png",
+      "company": "EMPRESA BADARÓ",
       "description": "Badaró S750 Colab QP COPARTICIPAÇÃO.",
       "email": "roberta@test.tst",
       "token": "c32cb464-f58a-4e34-9a9e-e1e1da408a6e"
@@ -12,7 +13,32 @@
   ],
   "quick_access": [
     {
-      "name"
+      "name": "Visualizar Cartões",
+      "icon": "credit-card"
+    },
+    {
+      "name": "Meus Saldos",
+      "icon": "money"
+    },
+    {
+      "name": "Meus Eventos",
+      "icon": "calendar"
+    },
+    {
+      "name": "Chat de Atendimento",
+      "icon": "list"
+    },
+    {
+      "name": "Meus tokens gerados",
+      "icon": "key"
+    },
+    {
+      "name": "Canais de Atendimento",
+      "icon": "phone"
+    },
+    {
+      "name": "Perguntas Frequentes",
+      "icon": "baloon"
     }
   ]
 }
