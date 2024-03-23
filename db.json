@@ -11,41 +11,43 @@
       "token": "c32cb464-f58a-4e34-9a9e-e1e1da408a6e"
     }
   ],
-  "quick_access": [
-    {
-      "id": 1,
-      "name": "Visualizar Cartões",
-      "icon": "card"
-    },
-    {
-      "id": 2,
-      "name": "Meus Saldos",
-      "icon": "money-receive"
-    },
-    {
-      "id": 3,
-      "name": "Meus Eventos",
-      "icon": "calendar-tick"
-    },
-    {
-      "id": 4,
-      "name": "Chat de Atendimento",
-      "icon": "messages"
-    },
-    {
-      "id": 5,
-      "name": "Meus tokens gerados",
-      "icon": "key-square"
-    },
-    {
-      "id": 6,
-      "name": "Canais de Atendimento",
-      "icon": "call-calling"
-    },
-    {
-      "id": 7,
-      "name": "Perguntas Frequentes",
-      "icon": "helping"
-    }
-  ]
+  "settings": {
+    "quick_access": [
+      {
+        "id": 1,
+        "name": "Visualizar Cartões",
+        "icon": "card"
+      },
+      {
+        "id": 2,
+        "name": "Meus Saldos",
+        "icon": "money-receive"
+      },
+      {
+        "id": 3,
+        "name": "Meus Eventos",
+        "icon": "calendar-tick"
+      },
+      {
+        "id": 4,
+        "name": "Chat de Atendimento",
+        "icon": "messages"
+      },
+      {
+        "id": 5,
+        "name": "Meus tokens gerados",
+        "icon": "key-square"
+      },
+      {
+        "id": 6,
+        "name": "Canais de Atendimento",
+        "icon": "call-calling"
+      },
+      {
+        "id": 7,
+        "name": "Perguntas Frequentes",
+        "icon": "helping"
+      }
+    ]
+  }
 }
