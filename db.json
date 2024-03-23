@@ -30,22 +30,22 @@
       },
       {
         "id": 4,
-        "name": "Chat de Atendimento",
+        "name": "Chat de \nAtendimento",
         "icon": "messages"
       },
       {
         "id": 5,
-        "name": "Meus tokens gerados",
+        "name": "Meus tokens \ngerados",
         "icon": "key-square"
       },
       {
         "id": 6,
-        "name": "Canais de Atendimento",
+        "name": "Canais de \nAtendimento",
         "icon": "call-calling"
       },
       {
         "id": 7,
-        "name": "Perguntas Frequentes",
+        "name": "Perguntas \nFrequentes",
         "icon": "helping"
       }
     ]
