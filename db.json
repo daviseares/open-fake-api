@@ -13,32 +13,39 @@
   ],
   "quick_access": [
     {
+      "id": 1,
       "name": "Visualizar Cartões",
-      "icon": "credit-card"
+      "icon": "card"
     },
     {
+      "id": 2,
       "name": "Meus Saldos",
-      "icon": "money"
+      "icon": "money-receive"
     },
     {
+      "id": 3,
       "name": "Meus Eventos",
-      "icon": "calendar"
+      "icon": "calendar-tick"
     },
     {
+      "id": 4,
       "name": "Chat de Atendimento",
-      "icon": "list"
+      "icon": "messages"
     },
     {
+      "id": 5,
       "name": "Meus tokens gerados",
-      "icon": "key"
+      "icon": "key-square"
     },
     {
+      "id": 6,
       "name": "Canais de Atendimento",
-      "icon": "phone"
+      "icon": "call-calling"
     },
     {
+      "id": 7,
       "name": "Perguntas Frequentes",
-      "icon": "baloon"
+      "icon": "helping"
     }
   ]
 }
