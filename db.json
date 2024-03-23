@@ -20,12 +20,12 @@
       },
       {
         "id": 2,
-        "name": "Meus Saldos",
+        "name": "Meus \nSaldos",
         "icon": "money-receive"
       },
       {
         "id": 3,
-        "name": "Meus Eventos",
+        "name": "Meus \nEventos",
         "icon": "calendar-tick"
       },
       {
